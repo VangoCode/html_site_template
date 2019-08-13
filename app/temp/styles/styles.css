@@ -416,7 +416,6 @@ input {
 .introduction__title {
         font-family: 'Exo 2', sans-serif;
         font-weight: 300;
-        letter-spacing: .5rem;
         text-shadow: 1px 1px 3px #000;
         color: #FF652F;
         font-size: 2rem;
@@ -459,8 +458,8 @@ input {
 
 .introduction__subtitle {
         font-weight: 300;
-        color: #14A76C;
         font-size: 1.2rem;
+        color: #FFF;
         text-shadow: 1px 1px 3px #000;
         margin-bottom: 0;
     }
@@ -1004,7 +1003,7 @@ input {
         background-color: #2b469e;
         padding: 25px 36px;
         left: 50%;
-        transform: translateX(-50%) scale(2.5);
+        transform: translateX(-50%) scale(1.5);
         transition: transform .3s ease-out;
         transform-origin: 50% 0%;
         top: 0;
